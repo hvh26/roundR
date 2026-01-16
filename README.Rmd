@@ -26,7 +26,7 @@ You can install the development version of roundR from [GitHub](https://github.c
 
 ``` r
 # install.packages("pak")
-pak::pak("hvh26/Reproducible-programming-RIT")
+pak::pak("hvh26/roundR")
 ```
 
 ## Example
