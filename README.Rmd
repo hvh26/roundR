@@ -25,8 +25,7 @@ The goal of roundR is to offer a numeric rounding to the nearest integer, as opp
 You can install the development version of roundR from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("pak")
-pak::pak("hvh26/roundR")
+devtools::install_github("hvh26/roundR")
 ```
 
 ## Example
